@@ -117,6 +117,13 @@ filters.forEach((filter) => {
 
 
 
+
+
+
+
+
+
+
 // filter by value
 //
 // const filters = document.querySelectorAll(".filter");

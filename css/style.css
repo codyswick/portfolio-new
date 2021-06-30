@@ -739,7 +739,7 @@ ul.nav-bar li.right-side {
 	    background: none;
 }
 
-.link-style {}
+
 
 .project-links a {
   color: white;
@@ -901,7 +901,7 @@ footer {
   font-size: 20px;
   text-align: center;
 	color:white;
-	text-shadow: 2px 2px ##016565;
+	text-shadow: 2px 2px ;
 }
 
 .placeholder {
@@ -1075,3 +1075,4 @@ textarea {
     outline: none;
     padding: 10px 15px;
     width: 100%;
+}
